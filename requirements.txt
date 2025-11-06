@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Core framework for the web app
+streamlit==1.33.0
+
+# Data manipulation and reading/writing files
+pandas==2.2.1
